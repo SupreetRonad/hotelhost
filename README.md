@@ -18,9 +18,10 @@
   9. Customer chooses an app and makes payment.
   10. Payment is confirmed by the app and generated bill is added to Customers's order history.
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://drive.google.com/file/d/1qAkV9LyWkgi8GqfdxskR5T-03aX0ivxu/view?usp=sharing)  |  ![](https://drive.google.com/file/d/1s340cs9TNFNcXrDTGPHZhBIXJlP8BweO/view?usp=sharing)
+<p float="left">
+  <img src="https://drive.google.com/file/d/1qAkV9LyWkgi8GqfdxskR5T-03aX0ivxu/view?usp=sharing" width="100" />
+  <img src="[/img2.png](https://drive.google.com/file/d/1s340cs9TNFNcXrDTGPHZhBIXJlP8BweO/view?usp=sharing)" width="100" /> 
+</p>
 
 #### Cook Flow:
   1. Cook opens the app and goes into 'Cook Mode' (which is only visible to cook and admin)
