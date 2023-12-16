@@ -19,8 +19,11 @@
   10. Payment is confirmed by the app and generated bill is added to Customers's order history.
 
 <p float="left">
-  <img src="https://drive.google.com/file/d/1qAkV9LyWkgi8GqfdxskR5T-03aX0ivxu/view?usp=sharing" width="100" />
-  <img src="[/img2.png](https://drive.google.com/file/d/1s340cs9TNFNcXrDTGPHZhBIXJlP8BweO/view?usp=sharing)" width="100" /> 
+  <img src="Screenshots/3.jpg" width="150" />
+  <img src="Screenshots/6.jpg" width="150" /> 
+  <img src="Screenshots/7.jpg" width="150" />
+  <img src="Screenshots/30.jpg" width="150" />
+  <img src="Screenshots/32.jpg" width="150" />
 </p>
 
 #### Cook Flow:
@@ -30,6 +33,12 @@
   4. Once it is done, the cook places the order on the bot and scans the Bot's QR code.
   5. The screen goes back to list of orders and cook can select other orders to prepare.
 
+<p float="left">
+  <img src="Screenshots/12.jpg" width="150" />
+  <img src="Screenshots/13.jpg" width="150" /> 
+  <img src="Screenshots/14.jpg" width="150" /> 
+</p>
+
 #### Admin Features:
   - The app also has an 'Admin Mode' for resturant management.
   - Admin can Add or Remove Cooks.
@@ -37,6 +46,18 @@
   - Admin can also Enable or Disable an item on the menu temporarily.
   - Admin can view orders from all the tables in 'Tables' dashboard.
   - Admin can generate QR codes for Bot and Table.
+    
+<p float="left">
+  <img src="Screenshots/11.jpg" width="150" />
+  <img src="Screenshots/15.jpg" width="150" />
+  <img src="Screenshots/17.jpg" width="150" /> 
+  <img src="Screenshots/19.jpg" width="150" />
+  <img src="Screenshots/22.jpg" width="150" />
+  <img src="Screenshots/24.jpg" width="150" />
+  <img src="Screenshots/25.jpg" width="150" />
+  <img src="Screenshots/26.jpg" width="150" />
+  <img src="Screenshots/28.jpg" width="150" />
+</p>
 
 ## The Bot
 
