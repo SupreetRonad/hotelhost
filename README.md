@@ -77,5 +77,9 @@
   2. Bots stop if there are obstacles on the way with the help of infrared sensors.
 
 ## Demo
-[![Watch the video](Video/Picture2.png)](Video/VID_20211214_103021.mp4)
+[> Watch Demo (1) here](https://drive.google.com/file/d/1VvFXp6oMpuGaU67Nlg4z8H0jvL9uFEuB/view?usp=drive_link)
+
+[> Watch Demo (2) here](https://drive.google.com/file/d/1fleXEiRlNLcfdQen4zCNcwWX8s4kUZU7/view?usp=drive_link)
+
+
 
