@@ -2,7 +2,7 @@
 
   Restrodroid is a system of App and a Line following Robot working together to automate a restaurant's day to day processes.
 
-## PUTHON
+## Puthon App
 
   Puthon <sub>([view in Playstore](https://play.google.com/store/apps/details?id=com.lairofdevs.puthon))</sub> app is used to order food, pay bill, view menu etc using QR codes and a Line following robot is used to deliver the food to respective table. The app is used by all the three users, namely Customers, Cooks and Admin. 
   
@@ -75,4 +75,7 @@
 #### Bot features:
   1. Bot uses Firebase real-time database to check for assigned table.
   2. Bots stop if there are obstacles on the way with the help of infrared sensors.
+
+## Demo
+[![Watch the video](Video/Picture2.png)](Video/VID_20211214_103021.mp4)
 
