@@ -79,7 +79,7 @@
 
 #### Bot features:
   - Bot uses Firebase real-time database to check for assigned table.
-  - Bots stop if there are obstacles on the way with the help of infrared sensors.
+  - Bots stop if there are obstacles on the way with the help of Ultrasonic sensors.
 
 ## Demo
 [> Watch Demo (1) here](https://drive.google.com/file/d/1VvFXp6oMpuGaU67Nlg4z8H0jvL9uFEuB/view?usp=drive_link)
