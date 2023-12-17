@@ -63,6 +63,11 @@
 
   The Line following Robot implemented here is tweaked to find path to a particular table. The bot is designed to find path on the pattern of resturant table locations stored in database.
 
+<p float="left">
+  <img src="images/bot.png" height="250" />
+  <img src="images/circuitDiagram_Bot.png" height="250" />
+</p>
+
 #### Bot Flow:
   1. Bots are waiting at the cook's table end in a line.
   2. Cook places the order and scans the QR code on the bot, which is unique.
@@ -73,8 +78,8 @@
   7. Bot resturns to the Cook's table.
 
 #### Bot features:
-  1. Bot uses Firebase real-time database to check for assigned table.
-  2. Bots stop if there are obstacles on the way with the help of infrared sensors.
+  - Bot uses Firebase real-time database to check for assigned table.
+  - Bots stop if there are obstacles on the way with the help of infrared sensors.
 
 ## Demo
 [> Watch Demo (1) here](https://drive.google.com/file/d/1VvFXp6oMpuGaU67Nlg4z8H0jvL9uFEuB/view?usp=drive_link)
